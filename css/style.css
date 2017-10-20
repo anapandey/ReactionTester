@@ -1,0 +1,53 @@
+/* Ana Pandey*/
+
+body {
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+    color: #FFF;
+    background-color: #333333;
+    padding: 5px 0px;
+}
+h1 {
+    text-shadow: 1px 1px 1px #3399ff;
+}
+main {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+main p:last-of-type {
+    background-color: grey;
+    color: springgreen;
+    font-weight: bold;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    font-size: 130%;
+    box-shadow: 1px 1px 1px #000033;
+}
+section {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #FFF;
+    height: 400px;
+    box-shadow: 1px 0px 1px #000033;
+}
+#box {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    display: none;
+    position: relative;
+    box-shadow: 1px 1px 1px grey;
+}
+#copyright {
+    font-size:0.8em;
+    color:#3399ff;
+    position:fixed;
+    bottom:10px;
+    left:10px;
+}
